@@ -1,5 +1,5 @@
 #include "allocator.hpp"
-#include <gtest/gtest.h>
+#include <gtest/gtest.h> 
 
 #ifdef RUN_TESTS
     //Проверка инициализации
